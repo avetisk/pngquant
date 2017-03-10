@@ -1,3 +1,7 @@
+## Install on macOS
+
+    brew install pngquant
+
 ## Compiling on Linux, *BSD and macOS
 
 (For instructions for Windows see section below.)
